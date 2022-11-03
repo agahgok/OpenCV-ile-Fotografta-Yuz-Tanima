@@ -1,1 +1,1 @@
-# OpenCV-ile-Foto-rafta-Y-z-Tan-ma
+# OpenCV-ile-Fotografta-Yuz-Tanima
